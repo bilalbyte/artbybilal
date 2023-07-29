@@ -1,7 +1,9 @@
 # Muhammad Bilal - Software Engineering Undergrad & Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bilalbyte/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/bilalbyte/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalbyte/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bilalbyte/)
+
 
 ## Welcome to my GitHub Profile! 👋
 
