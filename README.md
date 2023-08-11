@@ -27,7 +27,7 @@ I have some exciting projects in the pipeline, including a collaborative blog pl
 I am constantly dedicated to enhancing my knowledge and skills. Some of my current learning goals include:
 
 Exploring containerization using Docker and orchestration with Kubernetes.
-Diving deeper into backend development with frameworks like Express.js.
+Diving deeper into backend development with frameworks like Ruby on Rails.
 Mastering data structures and algorithms to write more efficient code.
 
 ### 🤝 Let's Connect
@@ -37,4 +37,4 @@ I believe in the power of collaboration and networking. If you're interested in 
 - LinkedIn: [bilalbyte](https://www.linkedin.com/in/bilalbyte/)
 - Instagram: [@bilalbyte](https://www.instagram.com/bilalbyte/)
 
-Thank you for stopping by! Feel free to explore my repositories, and don't forget to leave a star if you find something interesting. Happy coding! 🚀
+Thank you for stopping by! Happy coding! 🚀
