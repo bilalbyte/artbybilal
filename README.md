@@ -1,4 +1,5 @@
-# Muhammad Bilal - Software Engineering Undergrad & Web Developer
+# Muhammad Bilal 
+## Software Engineering Undergrad & Web Developer
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalbyte/)
