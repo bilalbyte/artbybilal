@@ -6,11 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bilalbyte/)
 
 
-## Welcome to my GitHub Profile! 👋
+## Welcome to my GitHub Profile! 👋 <span style="color: black;">Hover over this text to see a transition effect!</span>
 
-Hover over this text to see a transition effect!
-
-<span style="color: black;">Hover over this text to see a transition effect!</span>
 
 
 Hey there! I'm Muhammad Bilal, a passionate software engineering undergraduate and web developer with a keen interest in back-end development technologies. I love building robust and efficient web applications that solve real-world problems.
