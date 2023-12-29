@@ -13,9 +13,9 @@ Hey there! I'm Muhammad Bilal, a passionate software engineering undergraduate a
 
 I have experience working with a variety of web development technologies and tools, including:
 
-- **Frontend**: HTML, CSS, Bootstrap, React JS
-- **Backend**: Ruby, Ruby on Rails
-- **Database**: PostgreSQL, MySQL
+- **Frontend**: HTML, CSS, Bootstrap
+- **Backend**: C# ASP .Net Core, Ruby on Rails
+- **Database**: MySQL
 - **Version Control**: Git, GitHub
 
 I'm always excited to learn and explore new tools and technologies to enhance my development capabilities. Currently, I'm diving deep into cloud technologies, exploring AWS services to deploy scalable and reliable applications.
