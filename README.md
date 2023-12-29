@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bilalbyte/)
 
 
-## Welcome to my GitHub Profile! 👋 <span style="color: black;">Hover over this text to see a transition effect!</span>
+## Welcome to my GitHub Profile! 👋
 
 
 
